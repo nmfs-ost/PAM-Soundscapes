@@ -3,38 +3,38 @@ title: Process & Archive Soundscape Data
 ---
 
 ## Working Group
-**Establish data processing group, Google doc folder, regular check-in schedule.**
+*Establish data processing group, Google doc folder, regular check-in schedule.*
 
 
 ## Identify priority datasets
-**In coordination with Carrie Wall Bell and NCEI Archiving group decide on soundscape priority datasets for each FMC and flag in the overall PAM SI priority dataset table.**
+*In coordination with Carrie Wall Bell and NCEI Archiving group decide on soundscape priority datasets for each FMC and flag in the overall PAM SI priority dataset table.*
 
 ## Prepare analyses
-**For priority soundscape datasets: Prepare metadata, share QA/QC protocol/tools, prepare and submit audio data and soundscape metrics (if already processed locally) to NCEI for archiving.**
+*For priority soundscape datasets: Prepare metadata, share QA/QC protocol/tools, prepare and submit audio data and soundscape metrics (if already processed locally) to NCEI for archiving.*
 
 ## Test in pyPAM
-**Coordinate with PAM SI Cloud team to test pyPAM cloud processing from NCEI GCP on priority NRS audio data sets.**
+*Coordinate with PAM SI Cloud team to test pyPAM cloud processing from NCEI GCP on priority NRS audio data sets.*
 
 ## Establish software standards
-**Identify standard software options available for use and test Noise Reference Station (NRS) dataset results from multiple software outputs.**
+*Identify standard software options available for use and test Noise Reference Station (NRS) dataset results from multiple software outputs.*
 
 ## Compare soundscape software options
-**Provide soundscape software options available (MANTA, pyPAM, updated Triton toolbox, etc.) with comparison documentation for example datasets (NRS or others if necessary).**
+*Provide soundscape software options available (MANTA, pyPAM, updated Triton toolbox, etc.) with comparison documentation for example datasets (NRS or others if necessary).*
 
 ## Generate Hybrid Milli-Decade (HMD) output
-**FMCs will conduct HMD processing either locally or through the PAM SI Cloud computing and save to NCEI or internal PAM SI cloud environment.**
+*FMCs will conduct HMD processing either locally or through the PAM SI Cloud computing and save to NCEI or internal PAM SI cloud environment.*
 
 ## NCEI archive data products
-**All HMD outputs will be processed and sent to NCEI archive for level 2-3 data products.**
+*All HMD outputs will be processed and sent to NCEI archive for level 2-3 data products.*
 
 ## Facilitate more complex soundscape analyses
-**All priority soundscape datasets and HMD level 1 products will be cloud archived at NCEI for use in the Soundscape interpretation and visualization project.**
+*All priority soundscape datasets and HMD level 1 products will be cloud archived at NCEI for use in the Soundscape interpretation and visualization project.*
 
 ## Create supporting documents
-**Develop technical reports and tutorial videos for HMD metric processing, minimum QA/QC, and visualization routines developed in coordination with SoundCoop efforts, and PyPAM and PAMscapes software development efforts.**
+*Develop technical reports and tutorial videos for HMD metric processing, minimum QA/QC, and visualization routines developed in coordination with SoundCoop efforts, and PyPAM and PAMscapes software development efforts.*
 
 ## Support comparison across platforms
-**Comparison of soundscape metric results from simultaneously co-deployed platforms; develop tools to support this type of comparison (ie. PAMscapes). The data processing groups will establish methods for comparison, ongoing opportunistic evaluation will occur throughout the SI, and results will be added to the GitHub Soundscape Group and reported with example datasets. For SoundTrap comparisons, SoundTrap models will be specified at the time of comparison.**
+*Comparison of soundscape metric results from simultaneously co-deployed platforms; develop tools to support this type of comparison (ie. PAMscapes). The data processing groups will establish methods for comparison, ongoing opportunistic evaluation will occur throughout the SI, and results will be added to the GitHub Soundscape Group and reported with example datasets. For SoundTrap comparisons, SoundTrap models will be specified at the time of comparison.*
 
 ## Support comparison across datasets with known differences
-**Develop a format or tool to support comparison of datasets with known differences, such as perfect timing (MARS), dropped time (SoundTrap), duty cycled (AKFSC, NWFSC), frequency-dependent calibration (NRS, HARP), file format (XWAV).**
+*Develop a format or tool to support comparison of datasets with known differences, such as perfect timing (MARS), dropped time (SoundTrap), duty cycled (AKFSC, NWFSC), frequency-dependent calibration (NRS, HARP), file format (XWAV).*

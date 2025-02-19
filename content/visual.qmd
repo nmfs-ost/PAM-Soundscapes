@@ -2,33 +2,34 @@
 title: Soundscape Metric Interpretation & Visualization
 ---
 ## Establish working group
-**Establish working group and create folder in shared Google doc folder.**
+*Establish working group and create folder in shared Google doc folder.*
 
-## Identify datasets: Decide on priority Noise Reference Station (NRS) datasets for metric development.
+## Identify datasets
+*Decide on priority Noise Reference Station (NRS) datasets for metric development.*
 
 ## Data products to NCEI
-**NRS Hybrid Milli-Decade (HMD) products to be included in initial comparison sent to NCEI.**
+*NRS Hybrid Milli-Decade (HMD) products to be included in initial comparison sent to NCEI.*
 
 ## Identify visualization options
-**Organize and expand on options for HMD data visualizations as originally prepared for PAMscapes, share with working group via Google doc folder for discussion of level 1 visualization goals. Ideas and inspiration will be organized for project team brainstorming and feedback meeting.**
+*Organize and expand on options for HMD data visualizations as originally prepared for PAMscapes, share with working group via Google doc folder for discussion of level 1 visualization goals. Ideas and inspiration will be organized for project team brainstorming and feedback meeting.*
 
 ## Develop workplan
-**Set-up work plan with Taiki Sakai to evaluate HMD QA/QC with visualizations in PAMscapes including level 1 visualizations such as percentiles, LTSA, and bringing together MANTA and pyPAM default outputs.**
+*Set-up work plan with Taiki Sakai to evaluate HMD QA/QC with visualizations in PAMscapes including level 1 visualizations such as percentiles, LTSA, and bringing together MANTA and pyPAM default outputs.*
 
 ## Present initial results
-**Updated PAMscapes tool for HMD QA/QC level 1 visualization will be shared with project team for feedback and further development.**
+*Updated PAMscapes tool for HMD QA/QC level 1 visualization will be shared with project team for feedback and further development.*
 
 ## Level 2 data product planning
-**In coordination with QA/QC tool development, and informed by ongoing collaboration with SoundCoop partners, the Soundscape group will develop level 2 visualization for HMD output by: integrating environmental data (currents, wind, ice, etc.) and time/frequency bins for quantitative visualization (e.g., SPD). The option to integrate these visualizations as additional PAMscapes functionality or publish as separate code on GitHub will be evaluated.
+*In coordination with QA/QC tool development, and informed by ongoing collaboration with SoundCoop partners, the Soundscape group will develop level 2 visualization for HMD output by: integrating environmental data (currents, wind, ice, etc.) and time/frequency bins for quantitative visualization (e.g., SPD). The option to integrate these visualizations as additional PAMscapes functionality or publish as separate code on GitHub will be evaluated.*
 
 ## Level 3 data product planning
-Plan the development level 3 products from HMD that prioritize and reflect the needs of SI and FMCs including: integration with PACM; noise budgets; sound propagation; automated soundscape analysis; co-variate for species models; categorization from HMD data; repository of labeled HMD data; integration of AIS data.**
+*Plan the development level 3 products from HMD that prioritize and reflect the needs of SI and FMCs including: integration with PACM; noise budgets; sound propagation; automated soundscape analysis; co-variate for species models; categorization from HMD data; repository of labeled HMD data; integration of AIS data.*
 
 ## Cloud processing
-**Following Cloud Computing project Phase 7 (Software phase II validation), conduct cloud processing for HMD and PAMscapes to apply relevant methods on FMCs priority datasets.**
+*Following Cloud Computing project Phase 7 (Software phase II validation), conduct cloud processing for HMD and PAMscapes to apply relevant methods on FMCs priority datasets.*
 
 ## Facilitate national comparisons
-**Develop additional products or visualizations for nationwide comparison of FMC priority soundscapes.**
+*Develop additional products or visualizations for nationwide comparison of FMC priority soundscapes.*
 
 ## Present project outcomes
-**Present tested and functional cloud processing routines for level 1-3 products for all priority data sets for PAM SI reporting and additional science needs.**
+*Present tested and functional cloud processing routines for level 1-3 products for all priority data sets for PAM SI reporting and additional science needs.*
