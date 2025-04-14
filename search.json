@@ -1,160 +1,10 @@
 [
   {
-    "objectID": "content/visual.html",
-    "href": "content/visual.html",
-    "title": "Soundscape Metric Interpretation & Visualization",
-    "section": "",
-    "text": "Establish working group and create folder in shared Google doc folder.",
-    "crumbs": [
-      "Interpretation & Visualization"
-    ]
-  },
-  {
-    "objectID": "content/visual.html#establish-working-group",
-    "href": "content/visual.html#establish-working-group",
-    "title": "Soundscape Metric Interpretation & Visualization",
-    "section": "",
-    "text": "Establish working group and create folder in shared Google doc folder.",
-    "crumbs": [
-      "Interpretation & Visualization"
-    ]
-  },
-  {
-    "objectID": "content/visual.html#identify-datasets",
-    "href": "content/visual.html#identify-datasets",
-    "title": "Soundscape Metric Interpretation & Visualization",
-    "section": "Identify datasets",
-    "text": "Identify datasets\nDecide on priority Noise Reference Station (NRS) datasets for metric development.",
-    "crumbs": [
-      "Interpretation & Visualization"
-    ]
-  },
-  {
-    "objectID": "content/visual.html#data-products-to-ncei",
-    "href": "content/visual.html#data-products-to-ncei",
-    "title": "Soundscape Metric Interpretation & Visualization",
-    "section": "Data products to NCEI",
-    "text": "Data products to NCEI\nNRS Hybrid Milli-Decade (HMD) products to be included in initial comparison sent to NCEI.",
-    "crumbs": [
-      "Interpretation & Visualization"
-    ]
-  },
-  {
-    "objectID": "content/visual.html#identify-visualization-options",
-    "href": "content/visual.html#identify-visualization-options",
-    "title": "Soundscape Metric Interpretation & Visualization",
-    "section": "Identify visualization options",
-    "text": "Identify visualization options\nOrganize and expand on options for HMD data visualizations as originally prepared for PAMscapes, share with working group via Google doc folder for discussion of level 1 visualization goals. Ideas and inspiration will be organized for project team brainstorming and feedback meeting.",
-    "crumbs": [
-      "Interpretation & Visualization"
-    ]
-  },
-  {
-    "objectID": "content/visual.html#develop-workplan",
-    "href": "content/visual.html#develop-workplan",
-    "title": "Soundscape Metric Interpretation & Visualization",
-    "section": "Develop workplan",
-    "text": "Develop workplan\nSet-up work plan with Taiki Sakai to evaluate HMD QA/QC with visualizations in PAMscapes including level 1 visualizations such as percentiles, LTSA, and bringing together MANTA and pyPAM default outputs.",
-    "crumbs": [
-      "Interpretation & Visualization"
-    ]
-  },
-  {
-    "objectID": "content/visual.html#present-initial-results",
-    "href": "content/visual.html#present-initial-results",
-    "title": "Soundscape Metric Interpretation & Visualization",
-    "section": "Present initial results",
-    "text": "Present initial results\nUpdated PAMscapes tool for HMD QA/QC level 1 visualization will be shared with project team for feedback and further development.",
-    "crumbs": [
-      "Interpretation & Visualization"
-    ]
-  },
-  {
-    "objectID": "content/visual.html#level-2-data-product-planning",
-    "href": "content/visual.html#level-2-data-product-planning",
-    "title": "Soundscape Metric Interpretation & Visualization",
-    "section": "Level 2 data product planning",
-    "text": "Level 2 data product planning\nIn coordination with QA/QC tool development, and informed by ongoing collaboration with SoundCoop partners, the Soundscape group will develop level 2 visualization for HMD output by: integrating environmental data (currents, wind, ice, etc.) and time/frequency bins for quantitative visualization (e.g., SPD). The option to integrate these visualizations as additional PAMscapes functionality or publish as separate code on GitHub will be evaluated.",
-    "crumbs": [
-      "Interpretation & Visualization"
-    ]
-  },
-  {
-    "objectID": "content/visual.html#level-3-data-product-planning",
-    "href": "content/visual.html#level-3-data-product-planning",
-    "title": "Soundscape Metric Interpretation & Visualization",
-    "section": "Level 3 data product planning",
-    "text": "Level 3 data product planning\nPlan the development level 3 products from HMD that prioritize and reflect the needs of SI and FMCs including: integration with PACM; noise budgets; sound propagation; automated soundscape analysis; co-variate for species models; categorization from HMD data; repository of labeled HMD data; integration of AIS data.",
-    "crumbs": [
-      "Interpretation & Visualization"
-    ]
-  },
-  {
-    "objectID": "content/visual.html#cloud-processing",
-    "href": "content/visual.html#cloud-processing",
-    "title": "Soundscape Metric Interpretation & Visualization",
-    "section": "Cloud processing",
-    "text": "Cloud processing\nFollowing Cloud Computing project Phase 7 (Software phase II validation), conduct cloud processing for HMD and PAMscapes to apply relevant methods on FMCs priority datasets.",
-    "crumbs": [
-      "Interpretation & Visualization"
-    ]
-  },
-  {
-    "objectID": "content/visual.html#facilitate-national-comparisons",
-    "href": "content/visual.html#facilitate-national-comparisons",
-    "title": "Soundscape Metric Interpretation & Visualization",
-    "section": "Facilitate national comparisons",
-    "text": "Facilitate national comparisons\nDevelop additional products or visualizations for nationwide comparison of FMC priority soundscapes.",
-    "crumbs": [
-      "Interpretation & Visualization"
-    ]
-  },
-  {
-    "objectID": "content/visual.html#present-project-outcomes",
-    "href": "content/visual.html#present-project-outcomes",
-    "title": "Soundscape Metric Interpretation & Visualization",
-    "section": "Present project outcomes",
-    "text": "Present project outcomes\nPresent tested and functional cloud processing routines for level 1-3 products for all priority data sets for PAM SI reporting and additional science needs.",
-    "crumbs": [
-      "Interpretation & Visualization"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "PAM-Soundscapes",
-    "section": "",
-    "text": "We will facilitate cross-agency, region, and platform soundscape comparisons by quantifying soundscape metrics for priority datasets and generating decision support tools that integrate soundscape visualizations with multiple data types. This will allow for systematic identification, archival, and processing of soundscape metrics for priority PAM-SI datasets to build capacity and consistency across programs.\n\n\n\n\n\nThis project will add soundscape metrics for priority PAM SI datasets alongside audio files and other metrics to the NCEI Passive Acoustics archive. The soundscape metrics will be used to develop and demonstrate soundscape interpretation and visualization tools being developed as part of the SI. The datasets will also facilitate comparison of data sampled by multiple recording technologies and projects that are unique to select FMCs. A technical guide for processing and archiving PAM data will also be prepared as part of this project. This project will work with PAM SI cloud computing projects to operationalize soundscape metric processing software in the cloud environment. Streamlining and documenting methods to process and archive soundscape metrics supports PAM SI objectives to advance PAM data analysis and integration approaches, and advance archival cloud capabilities.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#project-1-soundscape-metric-processing-and-archiving",
-    "href": "index.html#project-1-soundscape-metric-processing-and-archiving",
-    "title": "PAM-Soundscapes",
-    "section": "",
-    "text": "We will facilitate cross-agency, region, and platform soundscape comparisons by quantifying soundscape metrics for priority datasets and generating decision support tools that integrate soundscape visualizations with multiple data types. This will allow for systematic identification, archival, and processing of soundscape metrics for priority PAM-SI datasets to build capacity and consistency across programs.\n\n\n\n\n\nThis project will add soundscape metrics for priority PAM SI datasets alongside audio files and other metrics to the NCEI Passive Acoustics archive. The soundscape metrics will be used to develop and demonstrate soundscape interpretation and visualization tools being developed as part of the SI. The datasets will also facilitate comparison of data sampled by multiple recording technologies and projects that are unique to select FMCs. A technical guide for processing and archiving PAM data will also be prepared as part of this project. This project will work with PAM SI cloud computing projects to operationalize soundscape metric processing software in the cloud environment. Streamlining and documenting methods to process and archive soundscape metrics supports PAM SI objectives to advance PAM data analysis and integration approaches, and advance archival cloud capabilities.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
-    "objectID": "index.html#project-2-soundscape-metric-interpretation-and-visualization",
-    "href": "index.html#project-2-soundscape-metric-interpretation-and-visualization",
-    "title": "PAM-Soundscapes",
-    "section": "Project 2: Soundscape Metric Interpretation and Visualization",
-    "text": "Project 2: Soundscape Metric Interpretation and Visualization\n\nGoal and Target Outcome\nWe will create a set of soundscape metric interpretation open-source processing pathways and visualizations for cross-FMCs comparisons and FMCs-specific soundscape priorities.\n\n\nSummary\nThis project will build on existing tools in PAMscapes (R/CRAN) to create and document processing pathways for soundscape metric interpretation. NOAA Noise Reference Station soundscape metrics will be used to build the pathways and evaluate outputs. Additional soundscape metrics from PAM SI priority data sets will be incorporated based on availability from Soundscape Priority #1 Projects (above). We will create decision-support tools that are relevant at regional and national scales and integrate PAM data with variables to provide context for different soundscapes (environmental data, species-detections, etc).",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
     "objectID": "content/processArchive.html",
     "href": "content/processArchive.html",
-    "title": "Process & Archive Soundscape Data",
+    "title": "Project 1 - Process & Archive Soundscape Data",
     "section": "",
-    "text": "Establish data processing group, Google doc folder, regular check-in schedule.",
+    "text": "We will facilitate cross-agency, region, and platform soundscape comparisons by quantifying soundscape metrics for priority datasets and generating decision support tools that integrate soundscape visualizations with multiple data types. This will allow for systematic identification, archival, and processing of soundscape metrics for priority PAM-SI datasets to build capacity and consistency across programs.",
     "crumbs": [
       "Process & Archive"
     ]
@@ -162,9 +12,9 @@
   {
     "objectID": "content/processArchive.html#working-group",
     "href": "content/processArchive.html#working-group",
-    "title": "Process & Archive Soundscape Data",
-    "section": "",
-    "text": "Establish data processing group, Google doc folder, regular check-in schedule.",
+    "title": "Project 1 - Process & Archive Soundscape Data",
+    "section": "Working Group",
+    "text": "Working Group\nEstablish data processing group, Google doc folder, regular check-in schedule.",
     "crumbs": [
       "Process & Archive"
     ]
@@ -172,7 +22,7 @@
   {
     "objectID": "content/processArchive.html#identify-priority-datasets",
     "href": "content/processArchive.html#identify-priority-datasets",
-    "title": "Process & Archive Soundscape Data",
+    "title": "Project 1 - Process & Archive Soundscape Data",
     "section": "Identify priority datasets",
     "text": "Identify priority datasets\nIn coordination with Carrie Wall Bell and NCEI Archiving group decide on soundscape priority datasets for each FMC and flag in the overall PAM SI priority dataset table.",
     "crumbs": [
@@ -182,7 +32,7 @@
   {
     "objectID": "content/processArchive.html#prepare-analyses",
     "href": "content/processArchive.html#prepare-analyses",
-    "title": "Process & Archive Soundscape Data",
+    "title": "Project 1 - Process & Archive Soundscape Data",
     "section": "Prepare analyses",
     "text": "Prepare analyses\nFor priority soundscape datasets: Prepare metadata, share QA/QC protocol/tools, prepare and submit audio data and soundscape metrics (if already processed locally) to NCEI for archiving.",
     "crumbs": [
@@ -192,7 +42,7 @@
   {
     "objectID": "content/processArchive.html#test-in-pypam",
     "href": "content/processArchive.html#test-in-pypam",
-    "title": "Process & Archive Soundscape Data",
+    "title": "Project 1 - Process & Archive Soundscape Data",
     "section": "Test in pyPAM",
     "text": "Test in pyPAM\nCoordinate with PAM SI Cloud team to test pyPAM cloud processing from NCEI GCP on priority NRS audio data sets.",
     "crumbs": [
@@ -202,7 +52,7 @@
   {
     "objectID": "content/processArchive.html#establish-software-standards",
     "href": "content/processArchive.html#establish-software-standards",
-    "title": "Process & Archive Soundscape Data",
+    "title": "Project 1 - Process & Archive Soundscape Data",
     "section": "Establish software standards",
     "text": "Establish software standards\nIdentify standard software options available for use and test Noise Reference Station (NRS) dataset results from multiple software outputs.",
     "crumbs": [
@@ -212,7 +62,7 @@
   {
     "objectID": "content/processArchive.html#compare-soundscape-software-options",
     "href": "content/processArchive.html#compare-soundscape-software-options",
-    "title": "Process & Archive Soundscape Data",
+    "title": "Project 1 - Process & Archive Soundscape Data",
     "section": "Compare soundscape software options",
     "text": "Compare soundscape software options\nProvide soundscape software options available (MANTA, pyPAM, updated Triton toolbox, etc.) with comparison documentation for example datasets (NRS or others if necessary).",
     "crumbs": [
@@ -222,7 +72,7 @@
   {
     "objectID": "content/processArchive.html#generate-hybrid-milli-decade-hmd-output",
     "href": "content/processArchive.html#generate-hybrid-milli-decade-hmd-output",
-    "title": "Process & Archive Soundscape Data",
+    "title": "Project 1 - Process & Archive Soundscape Data",
     "section": "Generate Hybrid Milli-Decade (HMD) output",
     "text": "Generate Hybrid Milli-Decade (HMD) output\nFMCs will conduct HMD processing either locally or through the PAM SI Cloud computing and save to NCEI or internal PAM SI cloud environment.",
     "crumbs": [
@@ -232,7 +82,7 @@
   {
     "objectID": "content/processArchive.html#ncei-archive-data-products",
     "href": "content/processArchive.html#ncei-archive-data-products",
-    "title": "Process & Archive Soundscape Data",
+    "title": "Project 1 - Process & Archive Soundscape Data",
     "section": "NCEI archive data products",
     "text": "NCEI archive data products\nAll HMD outputs will be processed and sent to NCEI archive for level 2-3 data products.",
     "crumbs": [
@@ -242,7 +92,7 @@
   {
     "objectID": "content/processArchive.html#facilitate-more-complex-soundscape-analyses",
     "href": "content/processArchive.html#facilitate-more-complex-soundscape-analyses",
-    "title": "Process & Archive Soundscape Data",
+    "title": "Project 1 - Process & Archive Soundscape Data",
     "section": "Facilitate more complex soundscape analyses",
     "text": "Facilitate more complex soundscape analyses\nAll priority soundscape datasets and HMD level 1 products will be cloud archived at NCEI for use in the Soundscape interpretation and visualization project.",
     "crumbs": [
@@ -252,7 +102,7 @@
   {
     "objectID": "content/processArchive.html#create-supporting-documents",
     "href": "content/processArchive.html#create-supporting-documents",
-    "title": "Process & Archive Soundscape Data",
+    "title": "Project 1 - Process & Archive Soundscape Data",
     "section": "Create supporting documents",
     "text": "Create supporting documents\nDevelop technical reports and tutorial videos for HMD metric processing, minimum QA/QC, and visualization routines developed in coordination with SoundCoop efforts, and PyPAM and PAMscapes software development efforts.",
     "crumbs": [
@@ -262,7 +112,7 @@
   {
     "objectID": "content/processArchive.html#support-comparison-across-platforms",
     "href": "content/processArchive.html#support-comparison-across-platforms",
-    "title": "Process & Archive Soundscape Data",
+    "title": "Project 1 - Process & Archive Soundscape Data",
     "section": "Support comparison across platforms",
     "text": "Support comparison across platforms\nComparison of soundscape metric results from simultaneously co-deployed platforms; develop tools to support this type of comparison (ie. PAMscapes). The data processing groups will establish methods for comparison, ongoing opportunistic evaluation will occur throughout the SI, and results will be added to the GitHub Soundscape Group and reported with example datasets. For SoundTrap comparisons, SoundTrap models will be specified at the time of comparison.",
     "crumbs": [
@@ -272,11 +122,141 @@
   {
     "objectID": "content/processArchive.html#support-comparison-across-datasets-with-known-differences",
     "href": "content/processArchive.html#support-comparison-across-datasets-with-known-differences",
-    "title": "Process & Archive Soundscape Data",
+    "title": "Project 1 - Process & Archive Soundscape Data",
     "section": "Support comparison across datasets with known differences",
     "text": "Support comparison across datasets with known differences\nDevelop a format or tool to support comparison of datasets with known differences, such as perfect timing (MARS), dropped time (SoundTrap), duty cycled (AKFSC, NWFSC), frequency-dependent calibration (NRS, HARP), file format (XWAV).",
     "crumbs": [
       "Process & Archive"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PAM-Soundscapes",
+    "section": "",
+    "text": "The Passive Acoustic Monitoring (PAM) Soundscapes team aims to facilitate cross-agency, region, and platform soundscape comparisons by quantifying soundscape metrics for priority datasets and generate decision support tools that integrate soundscape visualizations with multiple data types. PAM Soundscapes is part of the broader Strategic Initiative (SI), incorporating a multi-pronged approach to increase collaboration, innovation, and efficiency accross the regional passive acoustic monitoring effort.\nThe PAM Soundscapes project is comprised of ‘Processing and Archive’ and ‘Interpretation and Visualization’ (see left toolbar for more information). For more information on PAM’s Strategic Initiative, see the the National Network’s SI Github pages.",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "content/visual.html",
+    "href": "content/visual.html",
+    "title": "Project 2 - Soundscape Metric Interpretation & Visualization",
+    "section": "",
+    "text": "We will create a set of soundscape metric interpretation open-source processing pathways and visualizations for cross-FMCs comparisons and FMCs-specific soundscape priorities.",
+    "crumbs": [
+      "Interpretation & Visualization"
+    ]
+  },
+  {
+    "objectID": "content/visual.html#establish-working-group",
+    "href": "content/visual.html#establish-working-group",
+    "title": "Project 2 - Soundscape Metric Interpretation & Visualization",
+    "section": "Establish working group",
+    "text": "Establish working group\nEstablish working group and create folder in shared Google doc folder.",
+    "crumbs": [
+      "Interpretation & Visualization"
+    ]
+  },
+  {
+    "objectID": "content/visual.html#identify-datasets",
+    "href": "content/visual.html#identify-datasets",
+    "title": "Project 2 - Soundscape Metric Interpretation & Visualization",
+    "section": "Identify datasets",
+    "text": "Identify datasets\nDecide on priority Noise Reference Station (NRS) datasets for metric development.",
+    "crumbs": [
+      "Interpretation & Visualization"
+    ]
+  },
+  {
+    "objectID": "content/visual.html#data-products-to-ncei",
+    "href": "content/visual.html#data-products-to-ncei",
+    "title": "Project 2 - Soundscape Metric Interpretation & Visualization",
+    "section": "Data products to NCEI",
+    "text": "Data products to NCEI\nNRS Hybrid Milli-Decade (HMD) products to be included in initial comparison sent to NCEI.",
+    "crumbs": [
+      "Interpretation & Visualization"
+    ]
+  },
+  {
+    "objectID": "content/visual.html#identify-visualization-options",
+    "href": "content/visual.html#identify-visualization-options",
+    "title": "Project 2 - Soundscape Metric Interpretation & Visualization",
+    "section": "Identify visualization options",
+    "text": "Identify visualization options\nOrganize and expand on options for HMD data visualizations as originally prepared for PAMscapes, share with working group via Google doc folder for discussion of level 1 visualization goals. Ideas and inspiration will be organized for project team brainstorming and feedback meeting.",
+    "crumbs": [
+      "Interpretation & Visualization"
+    ]
+  },
+  {
+    "objectID": "content/visual.html#develop-workplan",
+    "href": "content/visual.html#develop-workplan",
+    "title": "Project 2 - Soundscape Metric Interpretation & Visualization",
+    "section": "Develop workplan",
+    "text": "Develop workplan\nSet-up work plan with Taiki Sakai to evaluate HMD QA/QC with visualizations in PAMscapes including level 1 visualizations such as percentiles, LTSA, and bringing together MANTA and pyPAM default outputs.",
+    "crumbs": [
+      "Interpretation & Visualization"
+    ]
+  },
+  {
+    "objectID": "content/visual.html#present-initial-results",
+    "href": "content/visual.html#present-initial-results",
+    "title": "Project 2 - Soundscape Metric Interpretation & Visualization",
+    "section": "Present initial results",
+    "text": "Present initial results\nUpdated PAMscapes tool for HMD QA/QC level 1 visualization will be shared with project team for feedback and further development.",
+    "crumbs": [
+      "Interpretation & Visualization"
+    ]
+  },
+  {
+    "objectID": "content/visual.html#level-2-data-product-planning",
+    "href": "content/visual.html#level-2-data-product-planning",
+    "title": "Project 2 - Soundscape Metric Interpretation & Visualization",
+    "section": "Level 2 data product planning",
+    "text": "Level 2 data product planning\nIn coordination with QA/QC tool development, and informed by ongoing collaboration with SoundCoop partners, the Soundscape group will develop level 2 visualization for HMD output by: integrating environmental data (currents, wind, ice, etc.) and time/frequency bins for quantitative visualization (e.g., SPD). The option to integrate these visualizations as additional PAMscapes functionality or publish as separate code on GitHub will be evaluated.",
+    "crumbs": [
+      "Interpretation & Visualization"
+    ]
+  },
+  {
+    "objectID": "content/visual.html#level-3-data-product-planning",
+    "href": "content/visual.html#level-3-data-product-planning",
+    "title": "Project 2 - Soundscape Metric Interpretation & Visualization",
+    "section": "Level 3 data product planning",
+    "text": "Level 3 data product planning\nPlan the development level 3 products from HMD that prioritize and reflect the needs of SI and FMCs including: integration with PACM; noise budgets; sound propagation; automated soundscape analysis; co-variate for species models; categorization from HMD data; repository of labeled HMD data; integration of AIS data.",
+    "crumbs": [
+      "Interpretation & Visualization"
+    ]
+  },
+  {
+    "objectID": "content/visual.html#cloud-processing",
+    "href": "content/visual.html#cloud-processing",
+    "title": "Project 2 - Soundscape Metric Interpretation & Visualization",
+    "section": "Cloud processing",
+    "text": "Cloud processing\nFollowing Cloud Computing project Phase 7 (Software phase II validation), conduct cloud processing for HMD and PAMscapes to apply relevant methods on FMCs priority datasets.",
+    "crumbs": [
+      "Interpretation & Visualization"
+    ]
+  },
+  {
+    "objectID": "content/visual.html#facilitate-national-comparisons",
+    "href": "content/visual.html#facilitate-national-comparisons",
+    "title": "Project 2 - Soundscape Metric Interpretation & Visualization",
+    "section": "Facilitate national comparisons",
+    "text": "Facilitate national comparisons\nDevelop additional products or visualizations for nationwide comparison of FMC priority soundscapes.",
+    "crumbs": [
+      "Interpretation & Visualization"
+    ]
+  },
+  {
+    "objectID": "content/visual.html#present-project-outcomes",
+    "href": "content/visual.html#present-project-outcomes",
+    "title": "Project 2 - Soundscape Metric Interpretation & Visualization",
+    "section": "Present project outcomes",
+    "text": "Present project outcomes\nPresent tested and functional cloud processing routines for level 1-3 products for all priority data sets for PAM SI reporting and additional science needs.",
+    "crumbs": [
+      "Interpretation & Visualization"
     ]
   }
 ]
