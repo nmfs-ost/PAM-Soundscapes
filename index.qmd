@@ -17,7 +17,7 @@ The PAM Soundscapes project is comprised of 'Processing and Archive' and 'Interp
 :::
 ::: {.column width="50%"}
 
-![](/content/images/Processing_pathways2.PNG)
+![](/content/images/Processing_pathways2.png)
 
 :::
 ::::::::::::::
