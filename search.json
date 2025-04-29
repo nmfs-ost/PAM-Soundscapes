@@ -1,135 +1,5 @@
 [
   {
-    "objectID": "content/processArchive.html",
-    "href": "content/processArchive.html",
-    "title": "Project 1 - Process & Archive Soundscape Data",
-    "section": "",
-    "text": "We will facilitate cross-agency, region, and platform soundscape comparisons by quantifying soundscape metrics for priority datasets and generating decision support tools that integrate soundscape visualizations with multiple data types. This will allow for systematic identification, archival, and processing of soundscape metrics for priority PAM-SI datasets to build capacity and consistency across programs.",
-    "crumbs": [
-      "Process & Archive"
-    ]
-  },
-  {
-    "objectID": "content/processArchive.html#working-group",
-    "href": "content/processArchive.html#working-group",
-    "title": "Project 1 - Process & Archive Soundscape Data",
-    "section": "Working Group",
-    "text": "Working Group\nEstablish data processing group, Google doc folder, regular check-in schedule.",
-    "crumbs": [
-      "Process & Archive"
-    ]
-  },
-  {
-    "objectID": "content/processArchive.html#identify-priority-datasets",
-    "href": "content/processArchive.html#identify-priority-datasets",
-    "title": "Project 1 - Process & Archive Soundscape Data",
-    "section": "Identify priority datasets",
-    "text": "Identify priority datasets\nIn coordination with Carrie Wall Bell and NCEI Archiving group decide on soundscape priority datasets for each FMC and flag in the overall PAM SI priority dataset table.",
-    "crumbs": [
-      "Process & Archive"
-    ]
-  },
-  {
-    "objectID": "content/processArchive.html#prepare-analyses",
-    "href": "content/processArchive.html#prepare-analyses",
-    "title": "Project 1 - Process & Archive Soundscape Data",
-    "section": "Prepare analyses",
-    "text": "Prepare analyses\nFor priority soundscape datasets: Prepare metadata, share QA/QC protocol/tools, prepare and submit audio data and soundscape metrics (if already processed locally) to NCEI for archiving.",
-    "crumbs": [
-      "Process & Archive"
-    ]
-  },
-  {
-    "objectID": "content/processArchive.html#test-in-pypam",
-    "href": "content/processArchive.html#test-in-pypam",
-    "title": "Project 1 - Process & Archive Soundscape Data",
-    "section": "Test in pyPAM",
-    "text": "Test in pyPAM\nCoordinate with PAM SI Cloud team to test pyPAM cloud processing from NCEI GCP on priority NRS audio data sets.",
-    "crumbs": [
-      "Process & Archive"
-    ]
-  },
-  {
-    "objectID": "content/processArchive.html#establish-software-standards",
-    "href": "content/processArchive.html#establish-software-standards",
-    "title": "Project 1 - Process & Archive Soundscape Data",
-    "section": "Establish software standards",
-    "text": "Establish software standards\nIdentify standard software options available for use and test Noise Reference Station (NRS) dataset results from multiple software outputs.",
-    "crumbs": [
-      "Process & Archive"
-    ]
-  },
-  {
-    "objectID": "content/processArchive.html#compare-soundscape-software-options",
-    "href": "content/processArchive.html#compare-soundscape-software-options",
-    "title": "Project 1 - Process & Archive Soundscape Data",
-    "section": "Compare soundscape software options",
-    "text": "Compare soundscape software options\nProvide soundscape software options available (MANTA, pyPAM, updated Triton toolbox, etc.) with comparison documentation for example datasets (NRS or others if necessary).",
-    "crumbs": [
-      "Process & Archive"
-    ]
-  },
-  {
-    "objectID": "content/processArchive.html#generate-hybrid-milli-decade-hmd-output",
-    "href": "content/processArchive.html#generate-hybrid-milli-decade-hmd-output",
-    "title": "Project 1 - Process & Archive Soundscape Data",
-    "section": "Generate Hybrid Milli-Decade (HMD) output",
-    "text": "Generate Hybrid Milli-Decade (HMD) output\nFMCs will conduct HMD processing either locally or through the PAM SI Cloud computing and save to NCEI or internal PAM SI cloud environment.",
-    "crumbs": [
-      "Process & Archive"
-    ]
-  },
-  {
-    "objectID": "content/processArchive.html#ncei-archive-data-products",
-    "href": "content/processArchive.html#ncei-archive-data-products",
-    "title": "Project 1 - Process & Archive Soundscape Data",
-    "section": "NCEI archive data products",
-    "text": "NCEI archive data products\nAll HMD outputs will be processed and sent to NCEI archive for level 2-3 data products.",
-    "crumbs": [
-      "Process & Archive"
-    ]
-  },
-  {
-    "objectID": "content/processArchive.html#facilitate-more-complex-soundscape-analyses",
-    "href": "content/processArchive.html#facilitate-more-complex-soundscape-analyses",
-    "title": "Project 1 - Process & Archive Soundscape Data",
-    "section": "Facilitate more complex soundscape analyses",
-    "text": "Facilitate more complex soundscape analyses\nAll priority soundscape datasets and HMD level 1 products will be cloud archived at NCEI for use in the Soundscape interpretation and visualization project.",
-    "crumbs": [
-      "Process & Archive"
-    ]
-  },
-  {
-    "objectID": "content/processArchive.html#create-supporting-documents",
-    "href": "content/processArchive.html#create-supporting-documents",
-    "title": "Project 1 - Process & Archive Soundscape Data",
-    "section": "Create supporting documents",
-    "text": "Create supporting documents\nDevelop technical reports and tutorial videos for HMD metric processing, minimum QA/QC, and visualization routines developed in coordination with SoundCoop efforts, and PyPAM and PAMscapes software development efforts.",
-    "crumbs": [
-      "Process & Archive"
-    ]
-  },
-  {
-    "objectID": "content/processArchive.html#support-comparison-across-platforms",
-    "href": "content/processArchive.html#support-comparison-across-platforms",
-    "title": "Project 1 - Process & Archive Soundscape Data",
-    "section": "Support comparison across platforms",
-    "text": "Support comparison across platforms\nComparison of soundscape metric results from simultaneously co-deployed platforms; develop tools to support this type of comparison (ie. PAMscapes). The data processing groups will establish methods for comparison, ongoing opportunistic evaluation will occur throughout the SI, and results will be added to the GitHub Soundscape Group and reported with example datasets. For SoundTrap comparisons, SoundTrap models will be specified at the time of comparison.",
-    "crumbs": [
-      "Process & Archive"
-    ]
-  },
-  {
-    "objectID": "content/processArchive.html#support-comparison-across-datasets-with-known-differences",
-    "href": "content/processArchive.html#support-comparison-across-datasets-with-known-differences",
-    "title": "Project 1 - Process & Archive Soundscape Data",
-    "section": "Support comparison across datasets with known differences",
-    "text": "Support comparison across datasets with known differences\nDevelop a format or tool to support comparison of datasets with known differences, such as perfect timing (MARS), dropped time (SoundTrap), duty cycled (AKFSC, NWFSC), frequency-dependent calibration (NRS, HARP), file format (XWAV).",
-    "crumbs": [
-      "Process & Archive"
-    ]
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "PAM-Soundscapes",
@@ -257,6 +127,136 @@
     "text": "Present project outcomes\nPresent tested and functional cloud processing routines for level 1-3 products for all priority data sets for PAM SI reporting and additional science needs.",
     "crumbs": [
       "Interpretation & Visualization"
+    ]
+  },
+  {
+    "objectID": "content/processArchive.html",
+    "href": "content/processArchive.html",
+    "title": "Project 1 - Process & Archive Soundscape Data",
+    "section": "",
+    "text": "We will facilitate cross-agency, region, and platform soundscape comparisons by quantifying soundscape metrics for priority datasets and generating decision support tools that integrate soundscape visualizations with multiple data types. This will allow for systematic identification, archival, and processing of soundscape metrics for priority PAM-SI datasets to build capacity and consistency across programs.",
+    "crumbs": [
+      "Process & Archive"
+    ]
+  },
+  {
+    "objectID": "content/processArchive.html#working-group",
+    "href": "content/processArchive.html#working-group",
+    "title": "Project 1 - Process & Archive Soundscape Data",
+    "section": "Working Group",
+    "text": "Working Group\nEstablish data processing group, Google doc folder, regular check-in schedule.",
+    "crumbs": [
+      "Process & Archive"
+    ]
+  },
+  {
+    "objectID": "content/processArchive.html#identify-priority-datasets",
+    "href": "content/processArchive.html#identify-priority-datasets",
+    "title": "Project 1 - Process & Archive Soundscape Data",
+    "section": "Identify priority datasets",
+    "text": "Identify priority datasets\nIn coordination with Carrie Wall Bell and NCEI Archiving group decide on soundscape priority datasets for each FMC and flag in the overall PAM SI priority dataset table.",
+    "crumbs": [
+      "Process & Archive"
+    ]
+  },
+  {
+    "objectID": "content/processArchive.html#prepare-analyses",
+    "href": "content/processArchive.html#prepare-analyses",
+    "title": "Project 1 - Process & Archive Soundscape Data",
+    "section": "Prepare analyses",
+    "text": "Prepare analyses\nFor priority soundscape datasets: Prepare metadata, share QA/QC protocol/tools, prepare and submit audio data and soundscape metrics (if already processed locally) to NCEI for archiving.",
+    "crumbs": [
+      "Process & Archive"
+    ]
+  },
+  {
+    "objectID": "content/processArchive.html#test-in-pypam",
+    "href": "content/processArchive.html#test-in-pypam",
+    "title": "Project 1 - Process & Archive Soundscape Data",
+    "section": "Test in pyPAM",
+    "text": "Test in pyPAM\nCoordinate with PAM SI Cloud team to test pyPAM cloud processing from NCEI GCP on priority NRS audio data sets.",
+    "crumbs": [
+      "Process & Archive"
+    ]
+  },
+  {
+    "objectID": "content/processArchive.html#establish-software-standards",
+    "href": "content/processArchive.html#establish-software-standards",
+    "title": "Project 1 - Process & Archive Soundscape Data",
+    "section": "Establish software standards",
+    "text": "Establish software standards\nIdentify standard software options available for use and test Noise Reference Station (NRS) dataset results from multiple software outputs.",
+    "crumbs": [
+      "Process & Archive"
+    ]
+  },
+  {
+    "objectID": "content/processArchive.html#compare-soundscape-software-options",
+    "href": "content/processArchive.html#compare-soundscape-software-options",
+    "title": "Project 1 - Process & Archive Soundscape Data",
+    "section": "Compare soundscape software options",
+    "text": "Compare soundscape software options\nProvide soundscape software options available (MANTA, pyPAM, updated Triton toolbox, etc.) with comparison documentation for example datasets (NRS or others if necessary).",
+    "crumbs": [
+      "Process & Archive"
+    ]
+  },
+  {
+    "objectID": "content/processArchive.html#generate-hybrid-milli-decade-hmd-output",
+    "href": "content/processArchive.html#generate-hybrid-milli-decade-hmd-output",
+    "title": "Project 1 - Process & Archive Soundscape Data",
+    "section": "Generate Hybrid Milli-Decade (HMD) output",
+    "text": "Generate Hybrid Milli-Decade (HMD) output\nFMCs will conduct HMD processing either locally or through the PAM SI Cloud computing and save to NCEI or internal PAM SI cloud environment.",
+    "crumbs": [
+      "Process & Archive"
+    ]
+  },
+  {
+    "objectID": "content/processArchive.html#ncei-archive-data-products",
+    "href": "content/processArchive.html#ncei-archive-data-products",
+    "title": "Project 1 - Process & Archive Soundscape Data",
+    "section": "NCEI archive data products",
+    "text": "NCEI archive data products\nAll HMD outputs will be processed and sent to NCEI archive for level 2-3 data products.",
+    "crumbs": [
+      "Process & Archive"
+    ]
+  },
+  {
+    "objectID": "content/processArchive.html#facilitate-more-complex-soundscape-analyses",
+    "href": "content/processArchive.html#facilitate-more-complex-soundscape-analyses",
+    "title": "Project 1 - Process & Archive Soundscape Data",
+    "section": "Facilitate more complex soundscape analyses",
+    "text": "Facilitate more complex soundscape analyses\nAll priority soundscape datasets and HMD level 1 products will be cloud archived at NCEI for use in the Soundscape interpretation and visualization project.",
+    "crumbs": [
+      "Process & Archive"
+    ]
+  },
+  {
+    "objectID": "content/processArchive.html#create-supporting-documents",
+    "href": "content/processArchive.html#create-supporting-documents",
+    "title": "Project 1 - Process & Archive Soundscape Data",
+    "section": "Create supporting documents",
+    "text": "Create supporting documents\nDevelop technical reports and tutorial videos for HMD metric processing, minimum QA/QC, and visualization routines developed in coordination with SoundCoop efforts, and PyPAM and PAMscapes software development efforts.",
+    "crumbs": [
+      "Process & Archive"
+    ]
+  },
+  {
+    "objectID": "content/processArchive.html#support-comparison-across-platforms",
+    "href": "content/processArchive.html#support-comparison-across-platforms",
+    "title": "Project 1 - Process & Archive Soundscape Data",
+    "section": "Support comparison across platforms",
+    "text": "Support comparison across platforms\nComparison of soundscape metric results from simultaneously co-deployed platforms; develop tools to support this type of comparison (ie. PAMscapes). The data processing groups will establish methods for comparison, ongoing opportunistic evaluation will occur throughout the SI, and results will be added to the GitHub Soundscape Group and reported with example datasets. For SoundTrap comparisons, SoundTrap models will be specified at the time of comparison.",
+    "crumbs": [
+      "Process & Archive"
+    ]
+  },
+  {
+    "objectID": "content/processArchive.html#support-comparison-across-datasets-with-known-differences",
+    "href": "content/processArchive.html#support-comparison-across-datasets-with-known-differences",
+    "title": "Project 1 - Process & Archive Soundscape Data",
+    "section": "Support comparison across datasets with known differences",
+    "text": "Support comparison across datasets with known differences\nDevelop a format or tool to support comparison of datasets with known differences, such as perfect timing (MARS), dropped time (SoundTrap), duty cycled (AKFSC, NWFSC), frequency-dependent calibration (NRS, HARP), file format (XWAV).",
+    "crumbs": [
+      "Process & Archive"
     ]
   }
 ]
