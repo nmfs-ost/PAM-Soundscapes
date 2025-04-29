@@ -37,6 +37,8 @@ website:
         text: "Process & Archive"
       - href: content/visual.qmd
         text: Interpretation & Visualization
+      - href: content/technical_documentation.qmd
+        text: Technical Documentation
 
 format:
   html:
