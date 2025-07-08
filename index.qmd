@@ -4,6 +4,8 @@ subtitle: "Soundscape Analysis, Metrics, & Tools"
 page-layout: full
 ---
 
+This project is a part of NOAA Fisheries [PAM SI coordination](https://nmfs-ost.github.io/PAM_National_Network/content/SI%20coord/SI_Coordination.html)
+
 :::::::::::::: {.columns}
 ::: {.column width="45%"}
 
