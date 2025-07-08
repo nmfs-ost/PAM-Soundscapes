@@ -1,15 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "PAM-Soundscapes",
-    "section": "",
-    "text": "The Passive Acoustic Monitoring (PAM) Soundscapes team aims to facilitate cross-agency, region, and platform soundscape comparisons by quantifying soundscape metrics for priority datasets and generate decision support tools that integrate soundscape visualizations with multiple data types. PAM Soundscapes is part of the broader Strategic Initiative (SI), incorporating a multi-pronged approach to increase collaboration, innovation, and efficiency accross the regional passive acoustic monitoring effort.\nThe PAM Soundscapes project is comprised of ‘Processing and Archive’ and ‘Interpretation and Visualization’ (see left toolbar for more information). For more information on PAM’s Strategic Initiative, see the the National Network’s SI Github pages.",
-    "crumbs": [
-      "Home"
-    ]
-  },
-  {
     "objectID": "content/visual.html",
     "href": "content/visual.html",
     "title": "Project 2 - Soundscape Metric Interpretation & Visualization",
@@ -257,6 +247,16 @@
     "text": "Support comparison across datasets with known differences\nDevelop a format or tool to support comparison of datasets with known differences, such as perfect timing (MARS), dropped time (SoundTrap), duty cycled (AKFSC, NWFSC), frequency-dependent calibration (NRS, HARP), file format (XWAV).",
     "crumbs": [
       "Process & Archive"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "PAM-Soundscapes",
+    "section": "",
+    "text": "This project is a part of NOAA Fisheries PAM SI coordination\n\n\nThe Passive Acoustic Monitoring (PAM) Soundscapes team aims to facilitate cross-agency, region, and platform soundscape comparisons by quantifying soundscape metrics for priority datasets and generate decision support tools that integrate soundscape visualizations with multiple data types. PAM Soundscapes is part of the broader Strategic Initiative (SI), incorporating a multi-pronged approach to increase collaboration, innovation, and efficiency accross the regional passive acoustic monitoring effort.\nThe PAM Soundscapes project is comprised of ‘Processing and Archive’ and ‘Interpretation and Visualization’ (see left toolbar for more information). For more information on PAM’s Strategic Initiative, see the the National Network’s SI Github pages.",
+    "crumbs": [
+      "Home"
     ]
   }
 ]
